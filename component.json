@@ -1,0 +1,9 @@
+{
+  "name": "velocity",
+  "version": "1.2.3",
+  "repository": "swipestudio/velocity",
+  "description": "Accelerated JavaScript animation.",
+  "scripts": [
+    "velocity.min.js"
+  ]
+}
