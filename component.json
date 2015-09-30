@@ -1,6 +1,6 @@
 {
   "name": "velocity",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "repository": "swipestudio/velocity",
   "description": "Accelerated JavaScript animation.",
   "scripts": [
